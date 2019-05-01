@@ -184,7 +184,7 @@ border-color:#dddddd;
     margin-right:0;
 }
 
-@media screen and (min-width: 769px){
+@media screen and (max-width: 980px){
     #myname{
         margin-left:30px; 
         }
